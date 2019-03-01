@@ -1,4 +1,4 @@
-##Alexandra Kelle##
+**Alexandra Kelle**
 
 Date of birth: 30.06.1984  
 Malyschinskaya 10- 17, Grodno, Belarus  
@@ -7,7 +7,7 @@ E-mail: kelle.alex30@gmail.com,
 Linkedin profile: [https://www.linkedin.com/in/alexandra-kelle-0662b9122/](https://www.linkedin.com/in/alexandra-kelle-0662b9122/)
 
 ***  
-###WORK EXPERIENCE###
+**WORK EXPERIENCE**
 
 **2018 - 2019**  Freelance: QA engineer  
 **2017 - 2018**  Educational projects at the university  
@@ -16,7 +16,7 @@ Linkedin profile: [https://www.linkedin.com/in/alexandra-kelle-0662b9122/](https
 **2007 -2012** PPUE Alfaspetsmontazh: accounting
 
 ***  
-###EDUCATION###  
+**EDUCATION**  
 
 **2018** Courses in Yes. 
 **2017 - 2018** Grodno Kupala State University, Grodno  
@@ -29,31 +29,31 @@ Specialty: finance and credit
 Specialty: accountancy  
 
 ***  
-###ADDITIONAL INFORMATION###  
+**ADDITIONAL INFORMATION**  
 
-####Commercial experience:####  
+**Commercial experience:**  
 -  design and development of the site for the photographer (used HTML, CSS, a little bit Photoshop);  
   - implemented application for photography studio using data base MySQL, UML, Java and HTML5 with CSS3;  
   - web application testing using various techniques of test design, writing test documentation;  
   - preparation of data for parsing.  
   
-####I passed: ##### 
+**I passed:** 
   - the course of Database on coursera.org  
   - the course on the design of information systems on intuit.ru  
 
-####I have such experience:####  
+**I have such experience:**  
 - to work with the BDD methodology;  
 - to implement simple desktop application “Catalog” in C#.
 
 ***  
-###LANGUAGES###  
+**LANGUAGES**  
 
 Russian (native languages)  
 English (Intermediate level +)  
 Poland (Start level)  
 
 ***  
-###TECHNICAL SKILLS###   
+**TECHNICAL SKILLS**   
 
 Java, JavaScript, C++, C#, 1C, SQL, Git,   
 Linux, Mac Os, Windows,  
@@ -62,11 +62,11 @@ Selenide, CSS3, HTML5, Bootstrap 4, UML, Junit, OOP,
 manual testing, pairwise testing, test documentation writing, functional testing, web sites design and development, accounting from A to Z, drawing up a business plan, project evaluation.  
 
 ***  
-###PERSONAL QUALITIES###  
+**PERSONAL QUALITIES**  
 
 Analytical thinking, result oriented, stress-resistant, deadline respect, strong communication and team-working skills, multitasking, leadership, flexibility, willingness to learn and improve  
 
 ***  
-###INTERESTS###  
+**INTERESTS**  
 
 Traveling, riding a bicycle, reading and self-education.
