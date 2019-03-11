@@ -1,0 +1,227 @@
+* {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+  width: 100%;
+  max-width: 1024px;
+
+  text-align: center;
+  margin: 0 auto;
+  border-top: 2px solid #40aed7;
+  border-bottom: 2px solid #40aed7;
+  border-left: 2px solid #40aed7;
+  border-right: 2px solid #40aed7;
+}
+
+/* ************ header ************ */
+
+.top-menu {
+  width: 100%;
+  height: 50%;
+  max-width: 100%;
+  list-style: none;
+  border-bottom: 1px solid #cccccc;
+}
+
+.main-menu {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-flow: wrap row;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-menu__item {
+  list-style: none;
+  display: inline-flex;
+}
+
+.main-menu__link {
+  font-family: 'Georgia Regular', sans-serif;
+  font-size: 11px;
+  text-decoration: none;
+  font-weight: 300;
+  color: #666666;
+  text-transform: uppercase;
+  margin: 11px 10px 0;
+  padding-top: 1%;
+  line-height: 1.2;
+}
+
+.main-menu__link:hover, .main-menu__link:active {
+  color: #40aed7;
+}
+.information-container{
+  display: flex;
+  flex-flow: wrap row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 200px;
+}
+.contacts-position{
+  margin-right: 10%;
+  padding-left: 5%;
+  text-align: left;
+}
+
+.contacts-text{
+  font-size: 15px;
+  font-weight: 300;
+  color: #666666;
+  line-height: 1.5;
+}
+
+.contacts-link{
+  text-decoration: none;
+  color: #40aed7;
+}
+
+.photo-position{
+  margin-left: 10%;
+}
+
+.photo{
+  width: 120px;
+  height: 150px;
+  border: 2px solid #40aed7;
+  border-radius: 10px;
+}
+
+.photo:hover{
+  transform: scale(2);
+}
+
+/* ************ work experience ************ */
+
+.title{
+    font-size: 22px;
+    font-family: "Georgia";
+    color: #40aed7;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 2;
+}
+
+ .section__style{
+  width: 100%;
+  height: auto;
+  margin-bottom: 2%;
+  border-bottom: 1px solid #cccccc;
+
+}
+.text-container{
+  display:flex;
+  justify-content: space-between;
+  flex-flow: nowrap row;
+}
+ .text{
+    font-size: 18px;
+    font-weight: 300;
+    color: #666666;
+    line-height: 1.5;
+    text-align: left;
+    margin: 10px 1% 10px 10%;
+ }
+ .text__small{
+  font-size: 15px;
+ }
+
+.line { 
+  border-left: 1px solid #40aed7; 
+  margin-left: 10px;
+  padding-left: 20px;
+}
+
+/* ************ footer ************ */
+
+.footer__style{
+  margin-bottom: 2%;
+  display:flex;
+  justify-content: space-around;
+  flex-flow: wrap row;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.button {
+  width: 115px;
+  height: 24px;
+  font-size: 13px;
+  font-weight: 200;
+  border: 1px solid #40aed7;
+  background-color: #40aed7;
+  color: #545353;
+  cursor: pointer;
+  margin-bottom: 5px;
+  
+}
+
+.button:hover {
+  background: #cccccc;
+  color: #40aed7;
+}
+
+
+@media (max-width: 1020px) {
+  body {
+    width: 80%;
+    text-align: justify;
+    margin: 0 auto;
+  }
+  .contacts-text{
+    font-size: 13px;
+  }
+
+  .title{
+    font-size: 18px;
+}
+  .text{
+    font-size: 16px;
+ }
+ .text__small{
+  font-size: 10px;
+ }
+
+}
+
+@media (max-width: 830px) {
+
+  .information-container{
+    flex-flow: wrap column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .main-menu__link {
+    font-size: 10px;
+  }
+
+  .contacts-text{
+    font-size: 12px;
+  }
+  
+  .photo{
+    width: 100px;
+    height: 120px;
+  }
+
+  .text{
+    font-size: 13px;
+ }
+ .text__small{
+  font-size: 10px;
+ }
+}
+
+@media (max-width: 500px){
+  .contacts-position{
+    display: none;
+  }
+  .footer__style{
+    justify-content: center;
+  }
+}
